@@ -1,0 +1,7 @@
+[Nemo Action]
+Name=Remove Background
+Comment=Remove background of an image
+Exec=<remove_bg.sh %F %f %P>
+Selection=s;
+Extensions=jpeg;jpg;png;gif;bmp;tiff;tif;psd;ai;eps;svg;webp;ico;tga;jp2;pcx;raw;
+Icon-Name=image-auto-adjust
