@@ -24,3 +24,7 @@ Open a Terminal and input the following commands to install the plugin.
 This will install the plugin in Nemo, and right-clicking on an image will now show the "Remove Background" option.
 
 ## Demo
+
+
+https://github.com/supersuryaansh/background-remover-for-nemo/assets/53139260/f179f83a-a732-4bf4-9eba-5df002c7ce48
+
